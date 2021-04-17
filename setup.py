@@ -8,8 +8,8 @@ setuptools.setup(
 	name = 'preprocess_nchaparr', # this should be unique globaLLy
 	version = '0.0.1',
 	author = 'Laxmi Kant',
-	author_email = 'udemy@kgptalkie.com'
-	description = 'This is preprocessing package'
+	author_email = 'udemy@kgptalkie.com',
+	description = 'This is preprocessing package',
 	long_description = long_description,
 	long_description_content_type='text/markdown'
 	packages=setuptools.find_packages(),
