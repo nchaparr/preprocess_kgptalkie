@@ -11,7 +11,7 @@ setuptools.setup(
 	author_email = 'udemy@kgptalkie.com',
 	description = 'This is preprocessing package',
 	long_description = long_description,
-	long_description_content_type='text/markdown'
+	long_description_content_type='text/markdown',
 	packages=setuptools.find_packages(),
 	classifiers = ['Programming Language :: Python :: 3',
 	'License :: OSI Approved :: MIT License'. "Operating System :: OS Independent"],
