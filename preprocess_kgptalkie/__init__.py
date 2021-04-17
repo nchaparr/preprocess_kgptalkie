@@ -6,10 +6,10 @@ def get_wordcounts(x):
 	return utils._get_wordcounts(x)
 
 def get_charcounts(x):
-	return utils._get_wordcounts(x)
+	return utils._get_charcounts(x)
 
 def get_avg_wordlength(x):
-	return utils.get_avg_wordlength(x)
+	return utils._get_avg_wordlength(x)
 
 def get_stopwords_counts(x):
 	return utils._get_stopwords_counts(x)
