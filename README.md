@@ -2,7 +2,7 @@
 
 #### Course Link: https://bit.ly/intro_nlp
 
-This ptyhon package is prepared by YourName
+This ptyhon package is prepared by Niamh Chaparro
 
 Install
 
