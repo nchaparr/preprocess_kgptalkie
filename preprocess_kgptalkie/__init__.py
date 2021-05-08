@@ -41,8 +41,10 @@ def remove_urls(x):
 def remove_emails(x):
 	return utils._remove_emails(x)
 
+def remove_rt_old(x):
+	return utils._remove_rt(x)
+
 def remove_rt(x):
-#correction test
 	return utils._remove_rt(x)
 
 def remove_special_chars(x):
