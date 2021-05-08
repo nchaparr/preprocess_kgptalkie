@@ -1,6 +1,6 @@
 from preprocess_kgptalkie import utils
 
-__version__ = '0.0.3'
+__version__ = '0.0.4'
 
 def get_wordcounts(x):
 	return utils._get_wordcounts(x)
@@ -42,6 +42,7 @@ def remove_emails(x):
 	return utils._remove_emails(x)
 
 def remove_rt(x):
+#correction test
 	return utils._remove_rt(x)
 
 def remove_special_chars(x):
