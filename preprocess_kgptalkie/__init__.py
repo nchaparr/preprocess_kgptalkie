@@ -38,6 +38,9 @@ def get_urls(x):
 def remove_urls(x):
 	return utils._remove_urls(x)
 
+def remove_emails(x):
+	return utils._remove_emails(x)
+
 def remove_rt(X):
 	return utils._remove_rt(x)
 
